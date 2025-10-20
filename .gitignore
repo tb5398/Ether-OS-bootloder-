@@ -1,0 +1,25 @@
+# Generated files and directories from installation
+boot/
+config/
+logs/
+
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Build artifacts
+*.o
+*.bin
+*.img
+*.iso
